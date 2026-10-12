@@ -25,35 +25,54 @@
 
 ---
 
-## Sobre mí
+## 🧭 Mi misión
 
-Soy egresado de Ingeniería en TIC y lidero **Lyra Lavender Solutions**, donde llevo proyectos tecnológicos de principio a fin: análisis de necesidades, propuesta, desarrollo, implementación, publicación, soporte y mantenimiento. He atendido a **más de 6 clientes reales** y me enfoco en automatizar operaciones de forma práctica y confiable.
+Lidero **Lyra Lavender Solutions**: transformo procesos manuales en apps y sistemas listos para operar.
 
-## Sistemas en uso real
+**Más de 6 clientes** · análisis → desarrollo → implementación → soporte.
 
-| Proyecto | Alcance e impacto |
-| --- | --- |
-| **Lyra POS** | En **5 sucursales**, usado por unas **17 personas al día** para comandas, caja, inventario y administración. |
-| **Barracuda Gym** | En **4 sucursales**, con **800+ socios** y 7–8 empleados; integra membresías, pagos, acceso y biometría operativa. |
-| **The Anatomy** | Gestión diaria de **400+ socios** desde diciembre de 2025; sustituyó Excel, papel y libretas. |
-| **King Crunch** | Plataforma de pedidos operada en **3 sucursales**. |
-| **FlorExpress** | Marketplace full stack con usuarios y pedidos reales durante su operación. |
-| **Alan’s Handyman** | Sitio web, dominio, hosting, DNS y mantenimiento; el sitio ha generado clientes. |
+## ⚔️ Misiones del mundo real
 
-## Tecnologías
+<table>
+<tr>
+<td width="50%"><strong>🍽️ Lyra POS</strong><br><strong>5 sucursales · ~17 usuarios diarios</strong><br>Comandas, caja e inventario.</td>
+<td width="50%"><strong>🏋️ Barracuda Gym</strong><br><strong>4 sucursales · 800+ socios</strong><br>Pagos, acceso y biometría.</td>
+</tr>
+<tr>
+<td><strong>💪 The Anatomy</strong><br><strong>400+ socios</strong><br>Gestión diaria que sustituyó Excel y papel.</td>
+<td><strong>🛎️ King Crunch</strong><br><strong>3 sucursales</strong><br>Plataforma de pedidos en operación.</td>
+</tr>
+<tr>
+<td><strong>🌸 FlorExpress</strong><br>Marketplace full stack con usuarios y pedidos reales durante su operación.</td>
+<td><strong>🛠️ Alan’s Handyman</strong><br>Sitio, dominio y despliegue que generaron clientes.</td>
+</tr>
+</table>
 
-**Principales:** Flutter / Dart · Firebase · PostgreSQL · MySQL · SQLite · JavaScript · HTML / CSS · Git / GitHub  
-**Complementarias:** Python · PHP · APIs · WebSockets · hosting y DNS · redes LAN / Wi-Fi · impresión térmica · biometría
+## 🎒 Inventario técnico
 
-**Enfoque:** análisis de requerimientos · implementación de sistemas · automatización de procesos · bases de datos · integración de sistemas · soporte técnico · digitalización de operaciones.
+`Flutter / Dart` · `Firebase` · `PostgreSQL` · `MySQL` · `SQLite`  
+`JavaScript` · `HTML / CSS` · `Git / GitHub`
 
-## Formación
+<details>
+<summary>🔧 Abrir herramientas de soporte</summary>
 
-**Ingeniería en Tecnologías de la Información y Comunicación** — Instituto Tecnológico Superior de Ciudad Hidalgo, 2021–2026. Egresado; proceso de titulación en curso.
+Python · PHP · APIs · WebSockets · hosting y DNS · LAN / Wi-Fi · impresión térmica · biometría.
 
-**Reconocimientos y formación:** constancia institucional de excelencia académica; asesoría e instrucción de un taller de robótica para estudiantes de nivel básico. Curso *Introducción a las Tecnologías Emergentes* (Emtech Institute & Santander Open Academy, 2024).
+</details>
 
-**Idiomas:** español nativo · inglés conversacional y lectura de documentación técnica.
+## 🎓 Formación
+
+**Ingeniería en TIC · ITSCH · 2021–2026**  
+Egresado · titulación en curso · **excelencia académica**.
+
+<details>
+<summary>📜 Ver formación extra e idiomas</summary>
+
+- Asesoría e instrucción de un taller de robótica para estudiantes de nivel básico.
+- Introducción a las Tecnologías Emergentes — Emtech Institute & Santander Open Academy, 2024.
+- Español nativo · inglés conversacional y lectura de documentación técnica.
+
+</details>
 
 ## Contacto
 
