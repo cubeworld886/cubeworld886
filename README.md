@@ -90,3 +90,13 @@ Me interesa colaborar en desarrollo de software, automatización e implementaci�
   Los iconos de la **Espada Maestra** y el **Escudo Hyliano** pertenecen a *The Legend of Zelda: Breath of the Wild* y Nintendo. Procedencia: [Espada Maestra — MelonSpeedruns / Zelda Wiki](https://zeldawiki.wiki/wiki/File:BotW_Master_Sword_Icon.png) y [Escudo Hyliano — The Spriters Resource / Zelda Wiki](https://zeldawiki.wiki/wiki/File:BotW_Hylian_Shield_Icon.png).
 
 </details>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/latin-footer-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/latin-footer-light.png">
+    <img src="assets/latin-footer-dark.png" width="740" alt="In nomine Patris, et Filii, et Spiritus Sancti. Amen.">
+  </picture>
+</p>
