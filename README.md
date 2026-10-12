@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/overworld-banner-final.jpg" alt="Bosque pixel art con un portal luminoso" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-elegant-dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-elegant-light.jpg">
+    <img src="assets/banner-elegant-dark.jpg" alt="Universo pixel art en tonos esmeralda y oro: ruinas, portal y mundo Minecraft" width="100%">
+  </picture>
 </p>
 
 <h1 align="center">Getsemani Chuc Arias</h1>
